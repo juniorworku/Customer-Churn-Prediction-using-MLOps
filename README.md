@@ -64,12 +64,6 @@ pip install -r requirements.txt
 export HOPSWORKS_API_KEY='your_api_key'
 ```
 
-4. Insall the Required Packages
-```sh
-pip install -r requirements.txt
-```
-
-
 ### **Running the System**
 1. Feature Pipeline:
 
@@ -98,34 +92,34 @@ streamlit run streamlit_app.py
 ## **MLOps Best Practices Implemented**
 
 1. Feature Management
-- Centralized feature store
-- Feature versioning
-- Feature validation
-- Automated feature computation
+    - Centralized feature store
+    - Feature versioning
+    - Feature validation
+    - Automated feature computation
 
 2. Model Management
-- Model versioning
-- Model metadata tracking
-- Model performance monitoring
-- A/B testing capability
+    - Model versioning
+    - Model metadata tracking
+    - Model performance monitoring
+    - A/B testing capability
 
 3. Data Quality
-- Data validation checks
-- Schema enforcement
-- Data drift detection
-- Feature correlation analysis
+    - Data validation checks
+    - Schema enforcement
+    - Data drift detection
+    - Feature correlation analysis
 
 4. Monitoring
-- Model performance metrics
-- Prediction drift monitoring
-- Feature drift detection
-- System health checks
+    - Model performance metrics
+    - Prediction drift monitoring
+    - Feature drift detection
+    - System health checks
 
 5. Reproducibility
-- Version controlled code
-- Tracked model artifacts
-- Reproducible training pipelines
-- Environment management
+    - Version controlled code
+    - Tracked model artifacts
+    - Reproducible training pipelines
+    - Environment management
 
 
 ## **System Improvements Over Basic Implementation**
